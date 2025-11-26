@@ -12,30 +12,8 @@ NAD⁺ Metabolism
 Mitochondrial Dysfunction
 细胞衰老
 Cellular Senescence
-抗衰老药物
-Anti-aging Drugs
-干细胞疗法
-Stem Cell Therapy
-Senolytics 清除衰老细胞
-Senolytics
-衰老相关疾病
-Age-related Diseases
-蛋白稳态
-Protein Homeostasis
-抗氧化应激
-Antioxidant Stress
-抗炎通路
-Anti-inflammatory Pathways
-端粒酶激活
-Telomerase Activation
-mTOR 信号调控
-mTOR Signaling Regulation
-AMPK 激活
-AMPK Activation
 AAV 基因递送
 AAV Gene Delivery
-高效 capsid 工程
-AAV Capsid Engineering
 整合缺陷慢病毒
 Integration-defective Lentivirus (IDLV)
 mRNA-LNP 疗法
@@ -44,46 +22,22 @@ mRNA-LNP Therapy
 Circular RNA Therapeutics
 基因调控元件优化
 Promoter / UTR Engineering
-RNA 编辑技术
-RNA Editing Technologies
-CRISPR 基因编辑
-CRISPR Gene Editing
 CAR-T 工程化设计
 CAR-T Engineering
 肿瘤微环境
 Tumor Microenvironment
 Treg / NK 细胞疗法
 Treg / CAR-NK Therapy
-免疫检查点抑制
-Immune Checkpoint Inhibition
 视网膜退行性疾病
 Retinal Degeneration / AMD
 光遗传治疗
 Optogenetics Therapy
 视网膜色素上皮功能恢复
 RPE Functional Restoration
-AAV 眼科递送特异性
-AAV Ocular Tropism
-黄斑变性
-Macular Degeneration
-视神经疾病
-Optic Nerve Disease
-视网膜血管病变
-Retinal Vascular Disorders
-肝纤维化关键通路
-TGF-β / SMAD Signaling
+肝纤维化
 肺纤维化细胞靶点
 Fibroblast Activation / Myofibroblast
 ECM 重塑
-Extracellular Matrix Remodeling
-肝星状细胞活化
-Hepatic Stellate Cells Activation
-肺泡损伤修复
-Alveolar Injury Repair
-抗纤维化药物
-Anti-fibrotic Drugs
-肺泡上皮细胞再生
-Alveolar Epithelial Cell Regeneration
 生成式蛋白设计
 Protein Generation Models
 多肽设计模型
@@ -92,53 +46,4 @@ Peptide Design / AMP / CPP
 Molecular Dynamics Simulation
 结构预测
 Structure Prediction / AlphaFold2
-蛋白折叠动力学
-Protein Folding Dynamics
-蛋白-蛋白相互作用
-Protein-Protein Interaction
-蛋白工程
-Protein Engineering
-稳定性优化
-Stability Optimization
-功能域优化
-Functional Domain Optimization
-药物靶点发现
-Drug Target Discovery
 RNA 结构优化算法
-RNA Secondary Structure Optimization
-RNA 药物设计
-RNA Therapeutic Design
-AI 药物发现
-AI for Drug Discovery
-机器学习生物信息学
-Machine Learning Bioinformatics
-多组学数据整合
-Multi-omics Integration
-基因表达谱分析
-Gene Expression Profiling
-单细胞测序
-Single-cell Sequencing
-表观组学分析
-Epigenomics Analysis
-小分子药物设计
-Small Molecule Drug Design
-生物信息学算法
-Bioinformatics Algorithms
-蛋白翻译后修饰
-Post-translational Modifications
-免疫细胞重编程
-Immune Cell Reprogramming
-抗凋亡信号
-Anti-apoptotic Signaling
-衰老标志物
-Senescence Biomarkers
-干细胞衰老
-Stem Cell Aging
-神经退行性疾病
-Neurodegenerative Diseases
-心血管衰老
-Cardiovascular Aging
-糖脂代谢异常
-Metabolic Dysregulation
-炎症衰老
-Inflammaging
